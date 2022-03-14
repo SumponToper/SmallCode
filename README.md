@@ -1,2 +1,3 @@
 # SmallCode
-some small projects will be packed in this package
+一些小项目会打包在这个包里
+美育小游戏的数字模块，通过c++语法为基础打造的小游戏，有很多玩法，需提前下载c++编译器如devc++。
